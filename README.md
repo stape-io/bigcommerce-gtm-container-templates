@@ -1,4 +1,6 @@
-# GTM Templates for BigCommerce
+# [Deprecated] GTM Templates for BigCommerce
+
+Container templates are deprecated and moved into [Setup Assistant](https://stape.io/gtm-set-up-assistant) service
 
 ## Open Source
 
